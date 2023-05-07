@@ -7,3 +7,7 @@ O programa deve permitir que o usuário possa verificar a disponibilidade de pro
 efetuar a venda e atualizar o estoque após a venda ser registrada. Além disso, o programa
 deve possuir um sistema de desconto que leva em conta a quantidade de itens vendidos por
 um cliente em um determinado período de tempo.
+
+
+
+#Foi feita uma alteração para testar o vercionamento
